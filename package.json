@@ -1,0 +1,15 @@
+{
+	"name": "2",
+	"version": "1.0.0",
+	"description": "",
+	"main": "index.js",
+	"scripts": {
+		"watch": "tailwindcss -i ./input.css -o ./css/style.css --watch --minify"
+	},
+	"keywords": [],
+	"author": "",
+	"license": "ISC",
+	"devDependencies": {
+		"tailwindcss": "^3.4.1"
+	}
+}
