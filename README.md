@@ -27,7 +27,7 @@ Aby uzyskać lokalną kopię projektu i uruchomić ją na swoim komputerze, wyko
 
 ### Wymagania wstępne
 
-Upewnij się, że masz zainstalowany git na swoim komputerze. Jeśli nie, możesz go pobrać [tutaj ](https://github.com/Sylwek185-dev/calculator?tab=readme-ov-file#:~:text=mo%C5%BCesz%20go%20pobra%C4%87-,tutaj,-.)
+Upewnij się, że masz zainstalowany git na swoim komputerze. Jeśli nie, możesz go pobrać [tutaj ](https://git-scm.com/)
 
 ### Klonowanie repozytorium
 
