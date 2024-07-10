@@ -1,6 +1,6 @@
 # Mike Hagens
 
-https://github.com/Sylwek185-dev/mike-hagens
+https://sylwek185-dev.github.io/mike-hagens/
 
 Projekt Mike Hagens to zaawansowana aplikacja internetowa stworzona z użyciem nowoczesnych technologii webowych. Aplikacja została zaprojektowana, aby zapewnić użytkownikom intuicyjne i responsywne doświadczenie.
 
@@ -36,4 +36,5 @@ git clone https://github.com/Sylwek185-dev/mike-hagens.git
 ```
 
 ### Kontakt
+
 Sylwek185 - sylwek185@op.pl
