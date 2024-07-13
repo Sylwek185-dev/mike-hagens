@@ -2,11 +2,11 @@
 
 https://sylwek185-dev.github.io/mike-hagens/
 
-Projekt Mike Hagens to zaawansowana aplikacja internetowa stworzona z użyciem nowoczesnych technologii webowych. Aplikacja została zaprojektowana, aby zapewnić użytkownikom intuicyjne i responsywne doświadczenie.
+Projekt Mike Hagens to zaawansowana aplikacja internetowa stworzona z użyciem nowoczesnych technologii webowych. Aplikacja została zaprojektowana, aby zapewnić użytkownikom intuicyjne i responsywne przeglądanie.
 
 ## Wprowadzenie
 
-Projekt Mike Hagens to aplikacja internetowa, która ma na celu [opis głównego celu projektu]. Aplikacja oferuje szeroki zakres funkcji i została zaprojektowana z myślą o najlepszym doświadczeniu użytkownika.
+Projekt Mike Hagens to strona internetowa w formie portfolio.
 
 ## Funkcje
 
